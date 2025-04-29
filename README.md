@@ -1,5 +1,5 @@
-<img src="https://your-logo-url.com/logo.png" alt="Project Logo" width="200"/>
-![](https://github.com/dheekshadevaraj/Data-Analysis-for-Netflix/blob/main/Netflix-logo-red-black-png.png)
+
+![](https://github.com/dheekshadevaraj/Blinkit-Data-Analysis/blob/main/blinkit_logo.png)
 # 🛒 Blinkit Sales Data Analysis using Python
 
 This project performs a comprehensive **data analysis** of Blinkit's sales data using Python. It uncovers key business insights using KPIs and visualizations, helping understand product performance, outlet trends, and customer preferences.
