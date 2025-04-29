@@ -1,8 +1,8 @@
-ght
+# 🛒 Blinkit Sales Data Analysis using Python
+
 <p align="center">
   <img src="https://github.com/dheekshadevaraj/Blinkit-Data-Analysis/blob/main/blinkit_logo.png" alt="Blinkit Logo" width="500"/>
 </p>
-# 🛒 Blinkit Sales Data Analysis using Python
 
 This project performs a comprehensive **data analysis** of Blinkit's sales data using Python. It uncovers key business insights using KPIs and visualizations, helping understand product performance, outlet trends, and customer preferences.
 
