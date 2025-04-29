@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/dheekshadevaraj/Blinkit-Data-Analysis/blob/main/blinkit_logo.png" alt="Blinkit Logo" width="200"/>
+  <img src="https://github.com/dheekshadevaraj/Blinkit-Data-Analysis/blob/main/blinkit_logo.png" alt="Blinkit Logo" width="500"/>
 </p>
 # 🛒 Blinkit Sales Data Analysis using Python
 
